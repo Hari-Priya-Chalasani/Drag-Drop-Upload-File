@@ -2,7 +2,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 80px;
+    margin: 100px;
 }
 .body-div{
     background-color:#0fb8ac ;
@@ -34,7 +34,6 @@ button{
     font-weight: bold;
     border: none;
     background-color: #fff;
-    cursor: pointer;
 }
 .icon{
     font-size: 100px;
